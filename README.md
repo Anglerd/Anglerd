@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello, This is Tomás
+
+Here are some of my certifications
+🌱 HTML-CSS Web Designer https://www.credly.com/badges/45f6cc15-dff8-4652-892f-43ddbb639e63/public_url
+🌱 Javascript Professional Developer https://www.credly.com/badges/f9bd3edb-e854-48e1-97a6-e9777fcc2d0c/public_url
+🌱 MYSQL Backend Developer https://www.credly.com/badges/decb5ff4-1561-4c5d-9d23-c8f942682b5b/public_url
+🌱 React JS Framework Developer https://www.credly.com/badges/aaa61b16-b7e6-4a57-8ecb-28861bc3252e/public_url
 
 <!--
 **Anglerd/Anglerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
